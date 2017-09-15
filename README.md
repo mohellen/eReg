@@ -1,3 +1,2 @@
 # eReg
-Elastic Multi-variate Regression with iMPI
------
+Elastic Multivariate Regression with iMPI
